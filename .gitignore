@@ -1,0 +1,32 @@
+# Generated files - DO NOT PUSH
+logs/
+backups/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Development files
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+
